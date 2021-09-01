@@ -13,4 +13,4 @@ npm run dev
 
 # build for production with minification
 npm run build
-在线展示：http://lu-my.gitee.io/jieyouwangluo/dist/index
+在线展示：https://githublmy.github.io/jy/dist
